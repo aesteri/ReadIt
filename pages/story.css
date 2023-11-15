@@ -1,0 +1,44 @@
+body, footer {
+	background-color: whitesmoke;
+	font-family: 'Indie Flower',cursive;
+}
+
+footer {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#foot {
+	text-align: center;
+}
+
+.volumesbox {
+	display: inline-block;
+	margin: 5px;
+}
+
+.books {
+	padding: 20px;
+	text-align: left;
+}
+
+#summary {
+	padding: 5px;
+	background-color: rgb(208, 208, 208);
+ }
+
+ #Title {
+ 	font-size: 70px;
+ 	margin: 5px;
+ }
+
+ #mainNav {
+ 	text-align:center; }
+
+ #browse {
+ 	text-align: center;
+ }
+ #pageHeader {
+ 	font-size: 50px;
+ 	font-weight: bolder;
+ }

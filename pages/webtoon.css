@@ -1,0 +1,32 @@
+body,footer{
+	font-family: 'Indie Flower',cursive;
+	background-color: whitesmoke;
+}
+
+#pageHeader {
+	font-weight: bolder;
+	font-size: 70px;
+	text-align: center;
+}
+
+#newSubheading {
+
+}
+
+footer {
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 10px;
+}
+
+#info {
+	display: inline-block;
+}
+
+footer {
+	
+}
+
+#foot {
+	text-align: center;
+}
